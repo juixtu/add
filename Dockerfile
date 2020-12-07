@@ -1,1 +1,1 @@
-FORM bolingcavalry/add:latest
+FROM bolingcavalry/add:latest
